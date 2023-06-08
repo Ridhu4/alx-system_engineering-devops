@@ -1,2 +1,2 @@
 #!/bin/bash
-the shebang instruct system to use shell,switches the current user to betty
+shebang instructs system to use default shell,sudo switch current user to betty user
