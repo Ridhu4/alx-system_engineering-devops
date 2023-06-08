@@ -1,2 +1,2 @@
 #!/bin/bash
-the shebang instructs our system to use bash as a default shell,sudo switches the current user to the user betty
+the shebang instruct system to use shell,switches the current user to betty
