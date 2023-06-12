@@ -1,2 +1,2 @@
 #!/bin/bash
-shebang defines absoulute path to the bash shell Pr prints content follow by a new line
+shebang allows our system to use default shell while sort sorts the input then outputs the resul
