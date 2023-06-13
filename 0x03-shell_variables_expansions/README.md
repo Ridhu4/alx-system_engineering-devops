@@ -1,1 +1,2 @@
-0x03-shell_variables_expansions
+#!/bin/bash
+shebang instructs system to use default shell,ls displays content of a file
